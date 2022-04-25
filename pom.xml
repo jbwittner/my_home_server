@@ -9,7 +9,7 @@
         <!-- lookup parent from repository -->
     </parent>
     <groupId>fr.myhome</groupId>
-    <artifactId>Server</artifactId>
+    <artifactId>server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>My Home Server</name>
     <description>Backend for My Home application</description>
